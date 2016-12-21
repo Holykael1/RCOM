@@ -1,6 +1,6 @@
-# Rcom Repository
+# Computer Networks
 
-Repository of RCOM files
+Repository of Computer Networks projects
 
 ### Contributors:
 

@@ -10,7 +10,7 @@ Repository of Computer Networks projects
 
 #Project-1
 
-C Program to transfer files through serial port using packet headers and bit stuffing techniques
+C Program to transfer files through serial port using framing and byte stuffing techniques
 
 #Project-2
 

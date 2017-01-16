@@ -10,7 +10,7 @@ Repository of Computer Networks projects
 
 #Project-1
 
-C Program to transfer files through serial port using framing and byte stuffing techniques
+C Program to transfer files through serial port using framing(With error detection), byte stuffing techniques and Stop and Wait ARQ and reconnection attempts
 
 #Project-2
 
